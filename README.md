@@ -1,4 +1,4 @@
-# TeamMarySy Telegram Bot
+# Telegram Bot
 
 Production-grade Cloudflare Workers foundation for a Telegram-native automation bot.
 
