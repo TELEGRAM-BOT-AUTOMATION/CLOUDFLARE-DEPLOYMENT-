@@ -1,4 +1,4 @@
-# TeamMarySy Telegram Bot — Production Source of Truth
+#  Telegram Bot — Production Source of Truth
 
 This repository is the authoritative implementation and deployment contract for the TeamMarySy Telegram bot. The code, Wrangler configuration, CI pipeline, runbooks, and tests must agree. Documentation must not describe a feature as operational unless its implementation and tests exist in this repository.
 
