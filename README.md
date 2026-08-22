@@ -64,3 +64,4 @@ GitLab is the only deployment pipeline defined by this repository. Default-branc
 ## Testing
 
 The existing test suite focuses on repository and pure-function checks. Production feature work must add integration coverage for bindings, Durable Objects, queues, webhook behavior, and Telegram API failure handling before the corresponding feature is declared complete. Cloudflare's current guidance recommends Workers Vitest integration for runtime-level tests. citeturn132975search2turn132975search5
+# Cloudflare-Workers-
